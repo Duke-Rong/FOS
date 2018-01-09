@@ -5,7 +5,7 @@ Yuecheng Rong, Yinsheng Dong, Hao Le, Ridwan O. Raji, Josh A. Kocur, Emmanuel O.
 
   This is a in-class academic project in class "Intermediate Software Developing". Please notice that all the data in this project is fake!
   
-  Main exe file: No exe-file is provided. Please open the 
+  Main exe file: No exe-file is provided. Please open the Food-Ordering-System.jar.
 
   It is a user-friendly application, provides restaurant searching, dish-searching and food-ordering services to customers. 
 
