@@ -18,3 +18,5 @@ Yuecheng Rong, Yinsheng Dong, Hao Le, Ridwan O. Raji, Josh A. Kocur, Emmanuel O.
   try to search "chicken" in dish-searching or "KFC" in restaurant-searching! Fuzzy search is allowed so you can even try only input one word! If you don't want to register and input the address, existing account is provided below: username: ken, password: qwer1234. This account includes address already: 455 Remple Lane
   
   Check FOS.pdf for more information.
+  
+  ![alt text](0.png)
